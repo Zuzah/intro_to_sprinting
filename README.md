@@ -1,6 +1,6 @@
 # Intro to Sprinting
 
-This project is designed to help beginners learn AND practice the basic skills necessary to contribute to open source projects. While it is designed to be delivered as a workshop for a group of students, it can also be used individually as self-study.
+This project is designed to help beginners learn and practice the basic skills necessary to contribute to open source projects. While it is designed to be delivered as a workshop for a group of students, it can also be used individually as self-study.
 
 It can be used in multiple ways:
 
